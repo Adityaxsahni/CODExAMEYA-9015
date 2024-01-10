@@ -1,6 +1,6 @@
 /* C Program to Print Prime Numbers From 1 to N
-17-December-2023
-Ankit Kumar Singh
+15-December-2023
+Aditya Kumar 
 */
 #include<stdio.h>
 main()

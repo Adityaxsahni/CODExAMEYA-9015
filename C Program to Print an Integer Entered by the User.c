@@ -2,11 +2,12 @@
 
 24 - December-2023
 
-Ankit Kumar Singh
+Aditya kumar
 */
 #include<stdio.h>
 main ()
-{ int i;
+{ 
+ int i;
  printf ("Enter The Number : ");
  scanf ("%d", & i);
  printf ("You Have Entered %d", i);

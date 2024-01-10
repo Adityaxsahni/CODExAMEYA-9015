@@ -1,8 +1,8 @@
 /* C Program to Swap Two Numbers
 
-17-December-2023
+08-December-2023
 
-Ankit Kumar Singh
+Aditya Kumar
 */
 #include<stdio.h>
 main ()

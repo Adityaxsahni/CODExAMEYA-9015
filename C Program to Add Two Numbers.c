@@ -1,6 +1,6 @@
 /*C Program to Add Two Numbers
 24 - December-2023
-Ankit Kumar Singh
+Aditya Kumar
 */
 #include<stdio.h>
 main ()

@@ -1,6 +1,6 @@
 /* C Program to Multiply two Floating-Point Numbers
 25-December-2023
-Ankit Kumar Singh
+Aditya Kumar
 */
 #include<stdio.h>
 main()

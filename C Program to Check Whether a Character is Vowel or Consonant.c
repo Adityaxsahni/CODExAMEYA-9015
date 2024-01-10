@@ -1,6 +1,6 @@
 /*C Program to Check Whether a Character is Vowel or Consonant
-8 - January-2024
-Ankit Kumar Singh
+4- January-2024
+Aditya Kumar 
 */
 
 #include <stdio.h>

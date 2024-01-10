@@ -1,6 +1,6 @@
 /* C Program to Find Simple interest 
-28-December-2023
-Ankit Kumar Singh
+20-December-2023
+Aditya Kumar 
 */
 #include<stdio.h>
 main()

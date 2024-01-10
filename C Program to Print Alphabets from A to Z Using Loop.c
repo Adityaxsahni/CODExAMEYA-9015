@@ -1,6 +1,6 @@
 /*C Program to Print Alphabets from A to Z Using Loop
 8 - January-2024
-Ankit Kumar Singh
+Aditya kumar
 */
 
 #include <stdio.h>

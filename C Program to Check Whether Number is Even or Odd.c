@@ -1,6 +1,6 @@
 /* C Program to Check Whether Number is Even or Odd
-8 - January-2024
-Ankit Kumar Singh
+24 - January-2024
+Aditya Kumar
 */
 
 #include <stdio.h>

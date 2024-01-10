@@ -1,6 +1,6 @@
 /* C Program to Print the ASCII Value of a Character
 8-December-2023
-Ankit Kumar Singh
+Aditya Kumar 
 */
 #include<stdio.h>
 main()

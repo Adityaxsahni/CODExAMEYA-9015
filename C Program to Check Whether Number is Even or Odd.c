@@ -1,5 +1,5 @@
 /* C Program to Check Whether Number is Even or Odd
-24 - January-2024
+4 - January-2024
 Aditya Kumar
 */
 

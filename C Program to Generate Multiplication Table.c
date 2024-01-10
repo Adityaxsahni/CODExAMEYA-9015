@@ -1,6 +1,6 @@
 /* C Program to Generate Multiplication Table
 8 - January-2024
-Ankit Kumar Singh
+Aditya Kumar 
 */
 
 #include <stdio.h>

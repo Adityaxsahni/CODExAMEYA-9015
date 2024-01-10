@@ -1,8 +1,8 @@
 /* C Program to Find the Size of int, float, double, and char
 
-17-December-2023
+15-December-2023
 
-Ankit Kumar Singh
+Aditya kumar
 */
 #include<stdio.h>
 main()

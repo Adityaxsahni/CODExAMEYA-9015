@@ -1,6 +1,6 @@
 /*C Program to Calculate Sum of Natural Numbers
-8 - January-2024
-Ankit Kumar Singh
+4- January-2024
+Aditya Kumar 
 */
 
 #include <stdio.h>
